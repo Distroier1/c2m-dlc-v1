@@ -1,0 +1,19 @@
+[
+
+	//DLC
+	{
+		"columnNumber": 6,
+		"era": "Paleolithic Age",
+		"techCost": 300,
+		"buildingCost": 300,
+		"techs": [
+			{
+				"name": "Stonepunk",
+				"row": 8,
+				"uniques": [ "Only available <before discovering [Abstractive Thinking]>" ],
+				"quote": ""
+			}
+		]
+	}
+	
+]

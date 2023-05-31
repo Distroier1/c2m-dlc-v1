@@ -1,0 +1,44 @@
+[
+	// Paleolithic Era
+	//DLC
+	// Always available
+
+	{
+		"name": "Stonepunk",
+		"cost": 200,
+		"requiredResource": "Wonder Limit",
+		"isWonder": true,
+		"uniques": [ "Discover [Stonepunk]", "[-50]% [Science] [in all cities]" ],
+		"requiredTech": "Stone Tools"
+
+	},
+	{
+		"name": "Mammoth Trainer",
+		"cost": 150,
+		"production": 5,
+		"food": 5,
+		"uniques": [ "Provides [2] [Horses]" ],
+		"isWonder": true,
+		"requiredTech": "Stonepunk"
+
+	},
+	{
+		"name": "Flintstones Hut",
+		"cost": 150,
+		"culture": 5,
+		"happiness": 5,
+		"isWonder": true,
+		"requiredTech": "Stonepunk"
+
+	},
+	{
+		"name": "Stone Stock Market",
+		"cost": 150,
+		"gold": 5,
+		"uniques": [ "Provides [2] [Obsidian]" ],
+		"isWonder": true,
+		"requiredTech": "Stonepunk"
+
+	}
+
+]

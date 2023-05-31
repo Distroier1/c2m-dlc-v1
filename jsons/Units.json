@@ -1,0 +1,36 @@
+[
+	//DLC
+	/* Ancient Era */
+
+	{
+		"name": "Mammoth Rider",
+		"unitType": "Mounted",
+		"movement": 1,
+		"strength": 50,
+		"requiredResource": "Horses",
+		"requiredTech": "Stonepunk",
+		"cost": 150
+
+	},
+	{
+		"name": "Sabe-Toothed Tiger",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 30,
+		"requiredResource": "Horses",
+		"requiredTech": "Stonepunk",
+		"cost": 150
+
+	},
+	{
+		"name": "Tiger Shark",
+		"unitType": "Water melee",
+		"movement": 3,
+		"strength": 25,
+		"cost": 150,
+		"uniques": [ "Cannot enter ocean tiles", "Must be next to [Coast]" ],
+		"requiredTech": "Stonepunk"
+
+	}
+
+]
